@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Pawar construction  <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="harsha;.pawar@940@gmail.com">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77  Harshal pawar </h2>
+  <h2> Call Us : + 91 - 92 75 29 16 84  Harshal pawar </h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Pusad Maharashtra </h3>
   
  <p> All the best my dear friend....</p>
 
